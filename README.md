@@ -1,5 +1,3 @@
-# 📌 David Castro - Desarrollador Full Stack
-
 ¡Hola! 👋 Soy un **Desarrollador Full Stack** con experiencia en la creación de aplicaciones multiplataforma (web, móvil y escritorio). Me apasiona construir soluciones escalables y eficientes, siempre enfocado en la calidad y la experiencia del usuario.  
 
 ---
