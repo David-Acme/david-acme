@@ -67,8 +67,6 @@
 
 ⭐ **¡Conectemos y colaboremos en proyectos innovadores!** ⭐  
 
----  
+---
 **Actualizado: Marzo 2024**  
----  
-
-Este README está diseñado para ser **visualmente atractivo** y **fácil de leer**, con emojis, badges y secciones claras. Puedes personalizarlo aún más con enlaces a tus proyectos o portafolio si lo deseas. 😊
+---
